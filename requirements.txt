@@ -1,0 +1,5 @@
+matplotlib==3.7.1
+numpy==1.23.5
+sumolib==1.16.0
+torch==2.0.0
+traci==1.16.0
